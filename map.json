@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.workadventure.sbbz-ilvesheim.de\/p\/vbs"
+                 "value":"https:\/\/etherpad.workadventure.sbbz-ilvesheim.de\/p\/schloss-schule-ilvesheim"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventure.sbbz-ilvesheim.de\/_\/vbs\/erichrueger.github.io\/VBS\/map.json"
+                 "value":"https:\/\/play.workadventure.sbbz-ilvesheim.de\/_\/wlm-nlw-sae\/erichrueger.github.io\/schloss-schule-ilvesheim\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
